@@ -3,11 +3,11 @@
 
 [中文](readme.md)
 
-![Cover](/Assets/cover.png)
+![cover](https://github.com/Wubzbz/BadApple2AsciiArt/assets/166909183/29f94944-9c05-4d6a-9850-10219433e414)
 
 ## Introduction
 
-![Workflow](/Assets/workflow.png)
+![workflow](https://github.com/Wubzbz/BadApple2AsciiArt/assets/166909183/2acf03ef-2bdb-4579-b281-63c7c76ee013)
 
 This project is aiming at generating an ascii-art version of the well known touhou themed silhouette anime *Bad Apple*.
 
@@ -65,7 +65,7 @@ If you ran the code before, the program will directly read the existed `FILM.txt
 
 > [!TIP]
 > You can open `FILM.txt` when the program is not running. It is supposed to be like the following figure shows:<br>
-> ![FILM.txt belikes](/Assets/film.png)<br>
+> ![film](https://github.com/Wubzbz/BadApple2AsciiArt/assets/166909183/580bbaff-7efb-4fd8-8c11-e35ebbd34ac4)<br>
 > It does resemble the real film, isn't it?
 
 #### Step 4
