@@ -9,11 +9,12 @@ FONT_SIZE = 40
 offset = 10
 
 def savef(filepath = EXPORT_PATH, folderpath = FRAME_PATH):
-    if not os.path.exists(filepath):
-        return -1
-    
+   
     #create a font
+    if not os.path.exists(FONT_PATH):
+        raise FileNotFoundError(f"Font missing: {FONT_PATH}")
     font = ImageFont.truetype(FONT_PATH, FONT_SIZE)
+    
     #size of frame(according to character size)
     width = ceil(font.getlength(".") * SCREEN_X + 2 * offset)
     height = ceil(FONT_SIZE * SCREEN_Y + 2 * offset)
@@ -45,7 +46,7 @@ def savef(filepath = EXPORT_PATH, folderpath = FRAME_PATH):
     
     print("Writing video...")
     vidwrite()
-    return 0
+
 
 if __name__ == "__main__":
     savef()
