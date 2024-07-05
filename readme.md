@@ -3,11 +3,12 @@
 
 [English](en-readme.md)
 
-![Cover](/Assets/cover.png)
+![cover](https://github.com/Wubzbz/BadApple2AsciiArt/assets/166909183/29f94944-9c05-4d6a-9850-10219433e414)
+
 
 ## 介绍
 
-![Workflow](/Assets/workflow.png)
+![workflow](https://github.com/Wubzbz/BadApple2AsciiArt/assets/166909183/2acf03ef-2bdb-4579-b281-63c7c76ee013)
 
 本项目旨在为著名的东方主题影绘动画Bad Apple生成其字符画版本。
 
@@ -65,8 +66,9 @@ Read(r) or Save(s):
 
 > [!TIP]
 > 当程序不是正在运行时，你可以打开 `FILM.txt`文件。它应该类似下图这样： <br>
-> ![FILM.txt belikes](/Assets/film.png)<br>
+> ![film](https://github.com/Wubzbz/BadApple2AsciiArt/assets/166909183/580bbaff-7efb-4fd8-8c11-e35ebbd34ac4)<br>
 > 它真的很像胶卷（film），对吧？
+
 
 #### 第4步
 是时候检查成果如何了！
