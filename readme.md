@@ -64,8 +64,8 @@ Read(r) or Save(s):
 如果你运行过代码，程序将直接读取已经存在的 `FILM.txt` 而不是替换它。因此，如果你想要创建一个新的文本文档，请重命名老的 `FILM.txt` 或者把它移动到其他文件夹中，如果你不再需要的话，也可以直接删除。
 
 > [!TIP]
-> 当程序不是正在运行时，你可以打开 `FILM.txt`文件。它应该类似下图这样： 
-> ![FILM.txt belikes](/Assets/film.png)
+> 当程序不是正在运行时，你可以打开 `FILM.txt`文件。它应该类似下图这样： <br>
+> ![FILM.txt belikes](/Assets/film.png)<br>
 > 它真的很像胶卷（film），对吧？
 
 #### 第4步
