@@ -23,7 +23,7 @@ Frame size is also influenced by font size, which is defined in `savefilm.py`, l
 
 The key process of this project is grayscale mapping, namely, select an appropriate ascii character to represent the original pattern according to its grayscale value.
 
-![Mesh grid](/Assets/mesh.png)
+![mesh](https://github.com/Wubzbz/BadApple2AsciiArt/assets/166909183/a365bc46-1717-408b-8f9f-f4e7e5f1654f)
 
 Initially, the colored frames are converted into grayscale frames. After that, each frame is divided into small rectangle areas. Every pixel in an area owns a grayscale value ranging from 0 to 255, then the average grayscale of an area are able to be calculated.
 
