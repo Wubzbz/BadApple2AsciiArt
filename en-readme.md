@@ -64,8 +64,8 @@ If this is the first time you run the code, the program will read original video
 If you ran the code before, the program will directly read the existed `FILM.txt` file rather than replace it. So if you want to create a new one, please rename the old `FILM.txt` or move it to other directory, or delete it if you don't need it anymore.
 
 > [!TIP]
-> You can open `FILM.txt` when the program is not running. It is supposed to be like the following figure shows:
-> ![FILM.txt belikes](/Assets/film.png)
+> You can open `FILM.txt` when the program is not running. It is supposed to be like the following figure shows:<br>
+> ![FILM.txt belikes](/Assets/film.png)<br>
 > It does resemble the real film, isn't it?
 
 #### Step 4
