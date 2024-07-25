@@ -11,6 +11,8 @@
 
 This project is aiming at generating an ascii-art version of the well known touhou themed silhouette anime *Bad Apple*.
 
+[Final Result](https://www.bilibili.com/video/BV1jXaceuE9k)
+
 
 ## Prerequisites
 
