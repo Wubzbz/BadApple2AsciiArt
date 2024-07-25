@@ -12,6 +12,7 @@
 
 本项目旨在为著名的东方主题影绘动画Bad Apple生成其字符画版本。
 
+[效果展示](https://www.bilibili.com/video/BV1jXaceuE9k)
 
 ## 前提
 
